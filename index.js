@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const { Triangle, Circle, Square } = require('../shapes');
+const { Triangle, Circle, Square } = require('./lib/shapes');
 
 async function main() {
     const shapeChoices = ['Triangle', 'Circle', 'Square'];
