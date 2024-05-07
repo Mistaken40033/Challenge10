@@ -47,6 +47,5 @@ Contributions to this project are welcome. If you would like to contribute:
 - Create a new Pull Request
 
 ## Questions
-If you have any questions about this project or need assistance, please feel free to reach out to [Author Name](link to author's GitHub profile) for more information.
-```
-
+For additional questions, contact [@mistaken40033](https://github.com/mistaken40033) or email: ericab40033@hotmail.com
+    
