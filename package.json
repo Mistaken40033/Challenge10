@@ -2,10 +2,12 @@
   "name": "challenge10",
   "version": "1.0.0",
   "scripts": {
-    "test": "jest" 
-  },
-  "dependencies": {
+    "test": "jest"
   },
   "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
